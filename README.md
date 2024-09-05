@@ -51,4 +51,14 @@ int main() {
 ```
 # Output
 ### Hello World
+![image](https://github.com/user-attachments/assets/15f10e0a-a24b-4a01-944b-09a3ee7784d3)
+### User Input and Output
+![image](https://github.com/user-attachments/assets/2181ba09-20c5-4aec-9325-3ae0ebf7babb)
+### Basic Calculator
+![image](https://github.com/user-attachments/assets/59f8f393-25d6-4b46-8e1a-9d4ed4464814)
+
+# Conclusion
+We learnt how to use essential C++ syntax and functionality, such as input/output handling and basic computations.
+
+
 
